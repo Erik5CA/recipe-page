@@ -10,8 +10,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [ PAges]()
+- Live Site URL: [Live Site](https://Erik5CA.github.io/recipe-page/)
 
 ## My process
 
@@ -32,4 +32,4 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## My socia media
 
-### linkedin - [Add your social media links here](https://www.linkedin.com/in/your-linkedin-username/)
+### linkedin - [Add your social media links here](https://www.linkedin.com/in/erik-castillo-b48b12239)
