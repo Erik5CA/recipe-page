@@ -1,0 +1,80 @@
+/* outfit-100 - latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../assets/fonts/outfit/static/Outfit-Thin.ttf"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* outfit-200 - latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 200;
+  src: url("../assets/fonts/outfit/static/Outfit-SemiBold.ttf");
+}
+/* outfit-300 - latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../assets/fonts/outfit/static/Outfit-Regular.ttf");
+}
+/* outfit-regular - latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../assets/fonts/outfit/static/Outfit-Medium.ttf");
+}
+/* outfit-500 - latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 200;
+  src: url("../assets/fonts/outfit/static/Outfit-Light.ttf");
+}
+/* outfit-600 - latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 100;
+  src: url("../assets/fonts/outfit/static/Outfit-ExtraLight.ttf");
+}
+/* outfit-700 - latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 900;
+  src: url("../assets/fonts/outfit/static/Outfit-ExtraBold.ttf");
+}
+/* outfit-800 - latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../assets/fonts/outfit/static/Outfit-Bold.ttf");
+}
+/* outfit-900 - latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../assets/fonts/outfit/static/Outfit-Black.ttf");
+}
+
+@font-face {
+  font-family: "Young Serif";
+  src: url("../assets/fonts/young-serif/YoungSerif-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
