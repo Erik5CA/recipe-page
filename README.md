@@ -10,7 +10,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [ PAges]()
 - Live Site URL: [Live Site](https://Erik5CA.github.io/recipe-page/)
 
 ## My process
