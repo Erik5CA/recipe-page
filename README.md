@@ -31,4 +31,4 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## My socia media
 
-### linkedin - [Add your social media links here](https://www.linkedin.com/in/erik-castillo-b48b12239)
+### linkedin - [linkedin](https://www.linkedin.com/in/erik-castillo-b48b12239)
